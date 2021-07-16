@@ -9,7 +9,7 @@
 - Пример работы верстки сайта - [gidro](https://github.com/chipolina/gidro)
 - Пример скрипта UI тестов на сайт [nopCommerce](https://github.com/chipolina/nopCommerce_UI_Test)
 - Пример скипта для автотестов [API](https://github.com/chipolina/API_test)
-- Пример коллекции [Postmana](https://github.com/chipolina/Postman_Collection) с скриптами на JS
+- Пример коллекции [Postman](https://github.com/chipolina/Postman_Collection) с скриптами на JS
 - список будет пополняться
 
 
