@@ -6,8 +6,8 @@
 Готовлюсь получать сертификацию ISTQB CTFL.
 
 В моем репозитории можно ознакомиться:
-- Пример работы верстки сайта - gidro
-- Пример скрипта UI тестов на сайт nopCommerce
+- Пример работы верстки сайта - [gidro](https://github.com/chipolina/gidro)
+- Пример скрипта UI тестов на сайт [nopCommerce](https://github.com/chipolina/nopCommerce_UI_Test)
 - Пример скипта для автотестов [API](https://github.com/chipolina/API_test)
 - список будет пополняться
 
