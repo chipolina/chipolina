@@ -1,22 +1,29 @@
 ### Hi there 👋
 
-Меня зовут Денис.
-На данном этапе жиненного пути занимаюсь изучением языка Python для нужд написания автотестов.
-Работаю ручным тестировщиком и хочу перейти в крупную IT компанию.
-Готовлюсь получать сертификацию ISTQB CTFL.
+My name is Denis.
+I am a certified ISTQB FL QA Engineer.
+My major is testing algorithms and Ui using Python and related libraries.
 
-В моем репозитории можно ознакомиться:
-- Пример работы верстки сайта - [gidro](https://github.com/chipolina/gidro)
-- Пример скрипта UI тестов на сайт [nopCommerce](https://github.com/chipolina/nopCommerce_UI_Test)
-- Пример скипта для автотестов [API](https://github.com/chipolina/API_test)
-- Пример коллекции [Postman](https://github.com/chipolina/Postman_Collection) с скриптами на JS
-- список будет пополняться
+I have almost 3 years of experience as QA Engineer. 
+I worked with logistic chains and interactive boards.
+
+My tech stack:
+ - Python
+ - Pytest
+ - Selenium/Playwright
+ - Docker
+ - Locust/Gatling
+ - CI/CD
+ - SQL
+ - Postman/Fiddler
+ - GIT
+ - Pandas
 
 
+Here you can check my own project, where I implement a Page Object Model pattern for UI and API tests for open-source project.
+I tried to make my project scalable and easily maintainable. And in my opinion, the goal is achieved.
 
-
-
-Связаться со мной вы можете по почте suddenig@gmail.com
+If you have any questions or opportunities, you can contact me by email at suddenig@gmail.com
 
 <!--
 **chipolina/chipolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
