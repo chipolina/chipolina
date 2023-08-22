@@ -2,7 +2,7 @@
 
 My name is Denis.
 I am a certified ISTQB FL QA Engineer.
-My major is testing algorithms and Ui using Python and related libraries.
+My major is testing algorithms and UI using Python and related libraries.
 
 I have almost 3 years of experience as QA Engineer. 
 I worked with logistic chains and interactive boards.
@@ -20,7 +20,7 @@ My tech stack:
  - Pandas
 
 
-Here you can check my own project, where I implement a Page Object Model pattern for UI and API tests for open-source project.
+Here you can check [my project](https://github.com/chipolina/My-test-framework), where I implement a Page Object Model pattern for UI and API tests for open-source project.
 I tried to make my project scalable and easily maintainable. And in my opinion, the goal is achieved.
 
 If you have any questions or opportunities, you can contact me by email at suddenig@gmail.com
